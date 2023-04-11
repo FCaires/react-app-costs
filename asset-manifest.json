@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//fcaires.github.io/react-app-costs/static/css/main.851eedf4.css",
+    "main.js": "//fcaires.github.io/react-app-costs/static/js/main.967abf82.js",
+    "static/media/savings.svg": "//fcaires.github.io/react-app-costs/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "//fcaires.github.io/react-app-costs/index.html",
+    "static/media/loading.svg": "//fcaires.github.io/react-app-costs/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.851eedf4.css.map": "//fcaires.github.io/react-app-costs/static/css/main.851eedf4.css.map",
+    "main.967abf82.js.map": "//fcaires.github.io/react-app-costs/static/js/main.967abf82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851eedf4.css",
+    "static/js/main.967abf82.js"
+  ]
+}
