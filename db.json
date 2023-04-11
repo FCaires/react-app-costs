@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Teste",
+      "budget": "100000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "service": [
+        {
+          "name": "Serviço teste",
+          "cost": "5000",
+          "description": "Contratar o PO",
+          "id": "ecfbe298-9c2c-4052-8362-464306aa123f"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
