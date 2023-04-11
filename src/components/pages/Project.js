@@ -120,8 +120,7 @@ function Project() {
     }
 
     return (
-        <>
-
+        <div>
             <div className={styles.project_details}>
                 <Container customClass="column">
                     {message && <Message type={type} msg={message} />}
@@ -185,7 +184,7 @@ function Project() {
                     </Container>
                 </Container>
             </div>
-        </>
+        </div>
     )
 }
 

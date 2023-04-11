@@ -17,7 +17,7 @@ jobs:
         run: |
           npm install
           npm run build
-      - name: Deploy to gh-pages
+      - name: Deploy to gh-panges
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
